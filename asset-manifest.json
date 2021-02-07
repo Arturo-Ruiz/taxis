@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.50a17756.chunk.js",
+    "main.js.map": "/static/js/main.50a17756.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.7b43e75d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.7b43e75d.js.map",
+    "static/js/2.c55e6cfc.chunk.js": "/static/js/2.c55e6cfc.chunk.js",
+    "static/js/2.c55e6cfc.chunk.js.map": "/static/js/2.c55e6cfc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.12d9b8d12d8d256f80f9063ecf7fb3a3.js": "/precache-manifest.12d9b8d12d8d256f80f9063ecf7fb3a3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/logo.png": "/static/media/logo.43d0c11f.png",
+    "static/media/money1.jpg": "/static/media/money1.1e54addd.jpg",
+    "static/media/money2.jpg": "/static/media/money2.2e3870f3.jpg",
+    "static/media/money3.jpg": "/static/media/money3.1d26e667.jpg",
+    "static/media/sidemenu_logo.jpg": "/static/media/sidemenu_logo.a6d4484a.jpg"
+  }
+}
